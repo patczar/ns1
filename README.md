@@ -1,3 +1,4 @@
 # alx1
 
-Przykłady ze szkolenia
+Przykłady ze szkolenia.
+Teraz dopisuję drugą linię.
